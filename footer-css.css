@@ -1,0 +1,17 @@
+
+
+#footer-container{
+    background-image: linear-gradient(to right, #1EC49C , #65B6F7);
+    color: #ffffff;
+}
+
+#socialmedia :hover {
+ color:#327566 ;
+}
+
+
+ #linkdirecto a:hover{
+    border-bottom: 2px solid #ffffff;
+    color: #ffffff !important;
+ } 
+
